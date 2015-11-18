@@ -1,0 +1,23 @@
+name: TimHite
+favicon: null
+layout_spectrum: 0.579873216105625
+typography_spectrum: 0.19584923423826694
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.09910735627636313
+  lightness: 0.10934575763531029
+  saturation: 0.009640272008255124
+  rhythmicContrast: 0.1774736272636801
+purpose: []
